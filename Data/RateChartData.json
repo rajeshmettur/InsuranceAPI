@@ -1,0 +1,74 @@
+[
+  {
+    "CoveragePlanId": 1,
+    "Gender": "Male",
+    "Age": 40,
+    "NetPrice": 1000
+  },
+  {
+    "CoveragePlanId": 1,
+    "Gender": "Male",
+    "Age": 41,
+    "NetPrice": 2000
+  },
+  {
+    "CoveragePlanId": 1,
+    "Gender": "Female",
+    "Age": 40,
+    "NetPrice": 1200
+  },
+  {
+    "CoveragePlanId": 1,
+    "Gender": "Female",
+    "Age": 41,
+    "NetPrice": 2500
+  },
+  {
+    "CoveragePlanId": 3,
+    "Gender": "Male",
+    "Age": 40,
+    "NetPrice": 1500
+  },
+  {
+    "CoveragePlanId": 3,
+    "Gender": "Male",
+    "Age": 41,
+    "NetPrice": 2600
+  },
+  {
+    "CoveragePlanId": 3,
+    "Gender": "Female",
+    "Age": 40,
+    "NetPrice": 1900
+  },
+  {
+    "CoveragePlanId": 3,
+    "Gender": "Female",
+    "Age": 41,
+    "NetPrice": 2800
+  },
+  {
+    "CoveragePlanId": 2,
+    "Gender": "Male",
+    "Age": 40,
+    "NetPrice": 1900
+  },
+  {
+    "CoveragePlanId": 2,
+    "Gender": "Male",
+    "Age": 41,
+    "NetPrice": 2900
+  },
+  {
+    "CoveragePlanId": 2,
+    "Gender": "Female",
+    "Age": 40,
+    "NetPrice": 2100
+  },
+  {
+    "CoveragePlanId": 2,
+    "Gender": "Female",
+    "Age": 41,
+    "NetPrice": 3200
+  }
+]
